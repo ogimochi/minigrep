@@ -11,6 +11,7 @@ Cargo.lock
 
 # ファイル
 .DS_Store
+poem.txt
 
 # ディレクトリ
 /tmp
